@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\laiOFFER\spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2050289041.index
