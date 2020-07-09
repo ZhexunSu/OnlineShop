@@ -8,4 +8,3 @@ public class ServerLogger implements Logger {
         System.out.println("server log = " + info);
     }
 }
-

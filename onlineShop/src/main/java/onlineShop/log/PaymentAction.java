@@ -15,3 +15,4 @@ public class PaymentAction {
 		logger.log("pay end");
 	}
 }
+

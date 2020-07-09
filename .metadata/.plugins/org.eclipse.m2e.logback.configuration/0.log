@@ -1,0 +1,356 @@
+2020-07-03 19:33:47,135 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-03 19:34:47,752 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\project\OnlineShop\onlineShop\pom.xml
+2020-07-03 19:34:48,305 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: onlineShop:onlineShop:1.0 @ D:\project\OnlineShop\onlineShop\pom.xml.
+2020-07-03 19:34:48,837 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /onlineShop/src/main/java
+2020-07-03 19:34:48,838 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /onlineShop/src/test/java
+2020-07-03 19:34:50,070 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-07-03 19:34:50,923 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:34:50,924 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:34:50,925 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:34:50,925 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:35:28,988 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:35:28,988 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:35:28,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:35:28,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:36:11,661 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:36:11,661 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:36:11,662 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:36:11,662 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:36:27,585 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:36:27,585 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:36:27,586 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:36:27,586 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:36:47,321 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: onlineShop:onlineShop:1.0 @ D:\project\OnlineShop\onlineShop\pom.xml.
+2020-07-03 19:36:47,448 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 19:36:47,550 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 19:36:47,746 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 19:36:47,923 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:36:47,927 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:36:47,929 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:36:47,933 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:36:47,934 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-03 19:36:47,934 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-03 19:36:47,937 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:36:48,239 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 19:36:48,253 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:36:48,258 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:36:48,259 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:36:48,264 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:46:51,072 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:46:51,077 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:46:51,078 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:46:51,082 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:47:17,814 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:17,818 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:47:17,819 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:17,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:47:31,541 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:31,546 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:47:31,547 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:31,551 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:47:44,671 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:44,676 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\main\resources
+2020-07-03 19:47:44,677 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:47:44,683 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:51:05,626 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:05,636 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:51:05,641 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:05,645 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:51:19,721 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:19,725 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 19:51:19,727 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:19,731 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:51:45,628 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:45,633 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:51:45,635 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:45,639 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:51:57,090 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:57,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:51:57,098 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:51:57,103 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 19:52:12,990 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:52:12,995 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:52:12,996 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 19:52:13,000 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:03:28,187 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:03:28,192 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:03:28,194 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:03:28,199 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:04:27,415 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:04:27,420 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:04:27,421 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:04:27,425 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:04:56,487 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:04:56,493 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:04:56,494 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:04:56,500 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:05:16,268 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:05:16,272 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:05:16,273 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:05:16,277 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:17:11,043 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:17:11,048 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:17:11,050 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:17:11,054 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:19:41,798 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:19:41,802 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:19:41,803 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:19:41,809 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:20:44,595 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:20:44,600 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:20:44,601 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:20:44,607 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:23:03,195 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:23:03,199 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:23:03,200 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:23:03,208 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:25:14,627 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:25:14,633 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:25:14,634 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:25:14,638 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:26:07,083 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:26:07,088 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:26:07,089 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:26:07,094 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:27:26,332 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:27:26,336 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:27:26,337 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:27:26,342 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:28:15,415 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:28:15,423 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:28:15,424 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:28:15,430 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:30:06,717 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:30:06,722 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:30:06,723 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:30:06,727 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:36:09,643 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:36:09,647 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:36:09,648 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:36:09,652 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:41:36,776 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:41:36,781 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:41:36,781 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:41:36,786 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:42:20,970 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:42:20,974 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:42:20,975 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:42:20,980 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:44:42,080 [Worker-53: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:44:42,081 [Worker-53: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-03 20:44:43,160 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:44:43,164 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:44:43,166 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:44:43,170 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:44:43,170 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-03 20:44:43,170 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-03 20:44:43,174 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:44:55,948 [Worker-60: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:44:55,948 [Worker-60: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 20:44:58,319 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:44:58,323 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:44:58,324 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:44:58,327 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:52:22,178 [Worker-62: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:52:22,178 [Worker-62: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-03 20:52:23,223 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:52:23,230 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:52:23,232 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:52:23,238 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:52:23,238 [Worker-63: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-03 20:52:23,238 [Worker-63: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-03 20:52:23,243 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:52:29,160 [Worker-53: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:52:29,160 [Worker-53: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 20:52:30,694 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:52:30,701 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:52:30,702 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:52:30,706 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:55:17,127 [Worker-72: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:55:17,127 [Worker-72: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 20:55:18,630 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:55:18,635 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:55:18,636 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:55:18,640 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:57:13,397 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:57:13,402 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:57:13,402 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:57:13,406 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:59:40,977 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-03 20:59:44,000 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 20:59:44,244 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:44,251 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:59:44,258 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:44,262 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:59:45,585 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:45,593 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:59:45,594 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:45,598 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:59:49,906 [Worker-3: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:59:49,907 [Worker-3: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-03 20:59:50,949 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:50,955 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 20:59:50,957 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:50,962 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 20:59:50,964 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-03 20:59:50,964 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-03 20:59:50,977 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:55,799 [Worker-12: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 20:59:55,800 [Worker-12: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 20:59:57,273 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:57,278 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 20:59:57,279 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 20:59:57,284 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 21:09:59,039 [Worker-25: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 21:09:59,039 [Worker-25: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-03 21:10:00,093 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:10:00,100 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 21:10:00,103 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:10:00,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 21:10:00,108 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-03 21:10:00,108 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-03 21:10:00,114 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:10:03,994 [Worker-25: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 21:10:03,994 [Worker-25: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 21:10:05,478 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:10:05,482 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 21:10:05,483 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:10:05,487 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 21:15:42,452 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-03 21:15:59,617 [Worker-2: Launching Application] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 21:23:30,598 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-03 21:23:33,286 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-03 21:23:34,621 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:23:34,629 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 21:23:34,641 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:23:34,645 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 21:23:36,370 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:23:36,382 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 21:23:36,383 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:23:36,390 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-03 21:24:26,049 [Worker-11: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-03 21:24:26,050 [Worker-11: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-03 21:24:32,353 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:24:32,359 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 21:24:32,360 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-03 21:24:32,366 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:12:51,230 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-08 13:12:52,946 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:19:47,481 [Worker-23: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-08 13:19:47,483 [Worker-23: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-08 13:19:49,981 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:19:49,989 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:19:50,001 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:19:50,006 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:19:50,011 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-08 13:19:50,012 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-08 13:19:50,019 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:19:51,778 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:19:51,784 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 13:19:51,785 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:19:51,790 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:19:57,870 [Worker-21: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-08 13:19:57,870 [Worker-21: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-08 13:20:00,444 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:20:00,449 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 13:20:00,449 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:20:00,454 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:27:52,713 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-08 13:29:11,610 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:29:11,789 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:11,796 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:29:11,800 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:11,804 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:29:13,053 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:13,060 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 13:29:13,061 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:13,066 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:29:36,661 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:36,668 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:29:36,671 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:29:36,676 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:30:10,240 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-08 13:30:10,698 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: onlineShop:onlineShop:1.0 @ D:\project\OnlineShop\onlineShop\pom.xml.
+2020-07-08 13:30:10,827 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:30:11,007 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:30:11,194 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:30:11,455 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /onlineShop/src/main/java
+2020-07-08 13:30:11,455 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /onlineShop/src/main/resources
+2020-07-08 13:30:11,456 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /onlineShop/src/test/java
+2020-07-08 13:30:12,308 [Worker-2: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for onlineShop
+2020-07-08 13:30:12,310 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-07-08 13:30:12,507 [Worker-1: Building Project onlineShop] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:30:12,531 [Worker-1: Building Project onlineShop] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:30:12,536 [Worker-1: Building Project onlineShop] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:30:12,543 [Worker-1: Building Project onlineShop] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:30:12,547 [Worker-1: Building Project onlineShop] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:30:12,547 [Worker-1: Building Project onlineShop] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-08 13:30:12,547 [Worker-1: Building Project onlineShop] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-08 13:30:12,550 [Worker-1: Building Project onlineShop] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:30:13,745 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:30:13,751 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 13:30:13,751 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:30:13,757 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:30:35,644 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-08 13:31:19,438 [Worker-15: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-08 13:31:19,440 [Worker-15: Launching Executing clean in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-08 13:31:21,221 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 13:31:21,397 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:31:21,403 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:31:21,409 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:31:21,413 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 13:31:21,417 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-07-08 13:31:21,417 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-07-08 13:31:21,426 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:31:32,174 [Worker-17: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\OnlineShop\onlineShop
+2020-07-08 13:31:32,174 [Worker-17: Launching Executing install in D__project_OnlineShop_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-08 13:31:36,289 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:31:36,297 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 13:31:36,298 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 13:31:36,302 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:33:18,248 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:18,262 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 14:33:18,263 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:18,274 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:33:20,292 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:20,298 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 14:33:20,299 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:20,303 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:33:37,294 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:37,300 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 14:33:37,301 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:33:37,310 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:35:22,669 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:35:22,678 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 14:35:22,679 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:35:22,693 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:37:24,632 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-08 14:37:26,007 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-07-08 14:37:26,412 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:37:26,481 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:37:26,491 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:37:26,500 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:39:03,442 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:39:03,453 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:39:03,454 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:39:03,460 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:40:17,811 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:40:17,816 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:40:17,818 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:40:17,824 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:40:37,476 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:40:37,481 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:40:37,483 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:40:37,489 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:44:10,001 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:44:10,007 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:44:10,009 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:44:10,014 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 14:50:46,023 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:50:46,029 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:50:46,030 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 14:50:46,036 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
+2020-07-08 19:02:44,217 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 19:02:44,226 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 19:02:44,228 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-08 19:02:44,233 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\OnlineShop\onlineShop\src\test\resources
