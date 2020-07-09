@@ -1,11 +1,8 @@
 INDEX VERSION 1.4+D:\project\OnlineShop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 3252996912.index
-869514156.index
-2073197445.index
-1463321518.index
 41512182.index
-2664030464.index
-2050289041.index
-4253496232.index
-2587038726.index
 1764168396.index
+2050289041.index
+2073197445.index
+869514156.index
+1463321518.index

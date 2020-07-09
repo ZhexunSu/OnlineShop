@@ -8,9 +8,9 @@
 <link rel="icon" type="image/x-icon" href="<c:url value="/resource/images/favicon.png"/>" />
 </head>
 <body>
-	<%@ include file="WEB-INF/page/navbar.jsp"%>
-	<%@ include file="WEB-INF/page/slider.jsp"%>
-	<%@ include file="WEB-INF/page/productGrid.jsp"%>
-	<%@ include file="WEB-INF/page/footer.jsp"%>
+ <%@ include file="WEB-INF/page/navbar.jsp"%>
+ <%@ include file="WEB-INF/page/slider.jsp"%>
+ <%@ include file="WEB-INF/page/productGrid.jsp"%>
+ <%@ include file="WEB-INF/page/footer.jsp"%>
 </body>
 </html>
